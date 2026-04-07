@@ -5,7 +5,7 @@ repeat task.wait() until game:IsLoaded()
 _G.SeleneCFG = {
     Team          = "Pirates",   -- "Pirates" or "Marines"
     Region        = "singapore",
-    WebhookURL    = "",
+    WebhookURL    = "https://discordapp.com/api/webhooks/1490966067173134416/81qVUj5HiQdPw_U6_dDoZal2sS-Ra_XQE8cXAftPEYMEMAlmFL7dN_u57WlH3niw_44x",
     DiscordID     = "",
     SuperBoostFps      = true,
 }
