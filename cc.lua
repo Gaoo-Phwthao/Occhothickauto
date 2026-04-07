@@ -1,12 +1,8 @@
-repeat task.wait() until game:IsLoaded()
-    and game:GetService("Players")
-    and game.Players.LocalPlayer
-    and game.Players.LocalPlayer:FindFirstChild("PlayerGui")
 _G.SeleneCFG = {
     Team          = "Pirates",   -- "Pirates" or "Marines"
-    Region        = "singapore",
-    WebhookURL    = "https://discordapp.com/api/webhooks/1490966067173134416/81qVUj5HiQdPw_U6_dDoZal2sS-Ra_XQE8cXAftPEYMEMAlmFL7dN_u57WlH3niw_44x",
-    DiscordID     = "",
-    SuperBoostFps      = true,
+    Region        = "Singapore",
+    WebhookURL    = "https://discord.com/api/webhooks/1490967663457996832/R8qTO90kCfrdgVnLr2j8lfCAr6ZprGSVlc3h89_rdFIayvq-yd5iJ_HXSmJDhqYSyLHy",
+    DiscordID     = "1276075309224955925",
+    SuperBoostFps     = true,
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Idontknowbrodontstalk/selene/refs/heads/main/S%20ELENE-obfuscated.lua"))()
