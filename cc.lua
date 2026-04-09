@@ -5,4 +5,4 @@ _G.SeleneCFG = {
     DiscordID     = "1276075309224955925",
     SuperBoostFps     = true,
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Idontknowbrodontstalk/selene/refs/heads/main/S%20ELENE-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gaoo-Phwthao/Occhothickauto/refs/heads/main/M1.lua"))()
