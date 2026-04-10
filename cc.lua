@@ -3,6 +3,6 @@ _G.SeleneCFG = {
     Region        = "Singapore",
     WebhookURL    = "",
     DiscordID     = "",
-    SuperBoostFps     = true,
+    SuperBoostFps     = false,
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gaoo-Phwthao/Occhothickauto/refs/heads/main/M1.lua"))()
